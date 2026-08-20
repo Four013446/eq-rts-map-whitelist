@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updated": "2026-08-20",
+  "note": "EQ RTS MAP 授权白名单 - 10 个用户 UUID",
+  "uuids": [
+    "b906f2d3-7395-4175-8b58-fdc5b07e16e1",
+    "0f394393-a895-4e29-ae11-a74bfa273f93",
+    "30866558-ed7b-406d-ad71-70f96f32e368",
+    "7150a2c5-247f-4288-bbcb-d7d7ec38b5c4",
+    "a69a3b16-2d27-4265-bda3-c3d6295a332b",
+    "5a3e5010-9b6e-4b0a-b02b-c39c7a31cb8c",
+    "8501a94b-86a1-4ae9-ba21-adfdee2bf210",
+    "7a15e3a6-5635-40a0-8d26-fcffe9539ada",
+    "dd58db5a-93b8-4fdb-84ad-0a4e59ac0526",
+    "f01212e2-b247-4b3e-8333-836d15e01415"
+  ]
+}
